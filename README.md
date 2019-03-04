@@ -1,5 +1,5 @@
 # exercism-kotlin
-Exercism's coding challenges in Kotlin
+Exercism's coding challenges in [Kotlin](https://exercism.io/tracks/kotlin/exercises)
 
 ## Kotlin Track
 - [x] Hello World
