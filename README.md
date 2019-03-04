@@ -5,19 +5,19 @@ Exercism's coding challenges in Kotlin
 - [x] Hello World
 - [x] Two Fer
 - [x] Hamming
-- [] Gigasecond
-- [] Scrabble
-- [] Difference
-- [] Secret Handshake
-- [] Triangle
-- [] Saddle Points
-- [] Flatten Array
-- [] Word Count
-- [] Robot Name
-- [] Rotational Cipher
-- [] Bank Account
-- [] Linked List
-- [] Binary Search
+- [ ] Gigasecond
+- [ ] Scrabble
+- [ ] Difference
+- [ ] Secret Handshake
+- [ ] Triangle
+- [ ] Saddle Points
+- [ ] Flatten Array
+- [ ] Word Count
+- [ ] Robot Name
+- [ ] Rotational Cipher
+- [ ] Bank Account
+- [ ] Linked List
+- [ ] Binary Search
 
 ## Extra Exercises
 - [x] RNA Transcription
@@ -30,40 +30,40 @@ Exercism's coding challenges in Kotlin
 - [x] Bob
 - [x] Beer Song
 - [x] Anagram
-- [] Leap
-- [] Space Age
-- [] Perfect Numbers
-- [] Sum Of Multiples
-- [] Luhn
-- [] Largest Series Product
-- [] Grains
-- [] Sieve
-- [] Collatz Conjecture
-- [] Atbash Cipher
-- [] Nth Prime
-- [] Rail Fence Cipher
-- [] Phone Number
-- [] Nucleotide Count
-- [] Spiral Matrix
-- [] Prime Factors
-- [] Allergies
-- [] Pascal's Triangle
-- [] Bracket Push
-- [] Series
-- [] ISBN Verifier
-- [] Roman Numerals
-- [] ETL
-- [] Grade School
-- [] Robot Simulator
-- [] Minesweeper
-- [] All Your Base
-- [] Say
-- [] Sublist
-- [] Meetup
-- [] Clock
-- [] List Ops
-- [] Simple Cipher
-- [] Complex Numbers
-- [] Change
-- [] Forth
-- [] React
+- [ ] Leap
+- [ ] Space Age
+- [ ] Perfect Numbers
+- [ ] Sum Of Multiples
+- [ ] Luhn
+- [ ] Largest Series Product
+- [ ] Grains
+- [ ] Sieve
+- [ ] Collatz Conjecture
+- [ ] Atbash Cipher
+- [ ] Nth Prime
+- [ ] Rail Fence Cipher
+- [ ] Phone Number
+- [ ] Nucleotide Count
+- [ ] Spiral Matrix
+- [ ] Prime Factors
+- [ ] Allergies
+- [ ] Pascal's Triangle
+- [ ] Bracket Push
+- [ ] Series
+- [ ] ISBN Verifier
+- [ ] Roman Numerals
+- [ ] ETL
+- [ ] Grade School
+- [ ] Robot Simulator
+- [ ] Minesweeper
+- [ ] All Your Base
+- [ ] Say
+- [ ] Sublist
+- [ ] Meetup
+- [ ] Clock
+- [ ] List Ops
+- [ ] Simple Cipher
+- [ ] Complex Numbers
+- [ ] Change
+- [ ] Forth
+- [ ] React
