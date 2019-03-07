@@ -5,7 +5,7 @@ Exercism's coding challenges in [Kotlin](https://exercism.io/tracks/kotlin/exerc
 - [x] Hello World
 - [x] Two Fer
 - [x] Hamming
-- [ ] Gigasecond
+- [x] Gigasecond
 - [ ] Scrabble
 - [ ] Difference
 - [ ] Secret Handshake
