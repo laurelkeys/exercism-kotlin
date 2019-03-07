@@ -30,7 +30,7 @@ Exercism's coding challenges in [Kotlin](https://exercism.io/tracks/kotlin/exerc
 - [x] Bob
 - [x] Beer Song
 - [x] Anagram
-- [ ] Leap
+- [x] Leap
 - [ ] Space Age
 - [ ] Perfect Numbers
 - [ ] Sum Of Multiples
