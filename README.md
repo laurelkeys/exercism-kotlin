@@ -34,7 +34,7 @@ Exercism's coding challenges in [Kotlin](https://exercism.io/tracks/kotlin/exerc
 - [x] Space Age
 - [x] Perfect Numbers
 - [x] Sum Of Multiples
-- [ ] Luhn
+- [x] Luhn
 - [ ] Largest Series Product
 - [ ] Grains
 - [ ] Sieve
