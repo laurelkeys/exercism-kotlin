@@ -1,5 +1,5 @@
 object ScrabbleScore {
-    
+
     private fun Char.scrabbleScore() = when (this.toUpperCase()) {
         'A', 'E', 'I', 'O', 'U', 'L', 'N', 'R', 'S', 'T' -> 1
         'D', 'G' -> 2
