@@ -32,7 +32,7 @@ Exercism's coding challenges in [Kotlin](https://exercism.io/tracks/kotlin/exerc
 - [x] Anagram
 - [x] Leap
 - [x] Space Age
-- [ ] Perfect Numbers
+- [x] Perfect Numbers
 - [ ] Sum Of Multiples
 - [ ] Luhn
 - [ ] Largest Series Product
