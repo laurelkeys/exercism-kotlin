@@ -31,7 +31,7 @@ Exercism's coding challenges in [Kotlin](https://exercism.io/tracks/kotlin/exerc
 - [x] Beer Song
 - [x] Anagram
 - [x] Leap
-- [ ] Space Age
+- [x] Space Age
 - [ ] Perfect Numbers
 - [ ] Sum Of Multiples
 - [ ] Luhn
