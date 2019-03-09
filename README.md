@@ -37,7 +37,7 @@ Exercism's coding challenges in [Kotlin](https://exercism.io/tracks/kotlin/exerc
 - [x] Luhn
 - [x] Largest Series Product
 - [x] Grains
-- [ ] Sieve
+- [x] Sieve
 - [x] Collatz Conjecture
 - [ ] Atbash Cipher
 - [ ] Nth Prime
