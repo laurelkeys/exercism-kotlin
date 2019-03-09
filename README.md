@@ -35,7 +35,7 @@ Exercism's coding challenges in [Kotlin](https://exercism.io/tracks/kotlin/exerc
 - [x] Perfect Numbers
 - [x] Sum Of Multiples
 - [x] Luhn
-- [ ] Largest Series Product
+- [x] Largest Series Product
 - [ ] Grains
 - [ ] Sieve
 - [x] Collatz Conjecture
