@@ -36,7 +36,7 @@ Exercism's coding challenges in [Kotlin](https://exercism.io/tracks/kotlin/exerc
 - [x] Sum Of Multiples
 - [x] Luhn
 - [x] Largest Series Product
-- [ ] Grains
+- [x] Grains
 - [ ] Sieve
 - [x] Collatz Conjecture
 - [ ] Atbash Cipher
