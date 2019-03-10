@@ -9,7 +9,7 @@ Exercism's coding challenges in [Kotlin](https://exercism.io/tracks/kotlin/exerc
 - [x] Scrabble
 - [x] Difference
 - [ ] Secret Handshake
-- [ ] Triangle
+- [x] Triangle
 - [ ] Saddle Points
 - [ ] Flatten Array
 - [ ] Word Count
