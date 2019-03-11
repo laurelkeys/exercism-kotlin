@@ -8,7 +8,7 @@ Exercism's coding challenges in [Kotlin](https://exercism.io/tracks/kotlin/exerc
 - [x] Gigasecond
 - [x] Scrabble
 - [x] Difference
-- [ ] Secret Handshake
+- [x] Secret Handshake
 - [x] Triangle
 - [ ] Saddle Points
 - [ ] Flatten Array
