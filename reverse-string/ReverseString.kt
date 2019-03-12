@@ -1,0 +1,1 @@
+fun reverse(string: String) = string.reversed()
