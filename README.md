@@ -20,6 +20,7 @@ Exercism's coding challenges in [Kotlin](https://exercism.io/tracks/kotlin/exerc
 - [ ] Binary Search
 
 ## Extra Exercises
+- [ ] Reverse String
 - [x] RNA Transcription
 - [x] Pangram
 - [x] Acronym
