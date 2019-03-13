@@ -10,7 +10,7 @@ Exercism's coding challenges in [Kotlin](https://exercism.io/tracks/kotlin/exerc
 - [x] Difference
 - [x] Secret Handshake
 - [x] Triangle
-- [ ] Saddle Points
+- [x] Saddle Points
 - [ ] Flatten Array
 - [ ] Word Count
 - [ ] Robot Name
