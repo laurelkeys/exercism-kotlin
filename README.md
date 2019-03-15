@@ -11,7 +11,7 @@ Exercism's coding challenges in [Kotlin](https://exercism.io/tracks/kotlin/exerc
 - [x] Secret Handshake
 - [x] Triangle
 - [x] Saddle Points
-- [ ] Flatten Array
+- [x] Flatten Array
 - [ ] Word Count
 - [ ] Robot Name
 - [ ] Rotational Cipher
