@@ -12,7 +12,7 @@ Exercism's coding challenges in [Kotlin](https://exercism.io/tracks/kotlin/exerc
 - [x] Triangle
 - [x] Saddle Points
 - [x] Flatten Array
-- [ ] Word Count
+- [x] Word Count
 - [ ] Robot Name
 - [ ] Rotational Cipher
 - [ ] Bank Account
