@@ -1,8 +1,11 @@
 class Anagram(private val word: String) {
-    fun String.toLowerCaseSortedArray() = this.toLowerCase().toCharArray().sorted()
+
+    private val lowerCaseSortedWord: List<Char> by lazy { word.toLowerCaseSortedArray() }
+
+    private fun String.toLowerCaseSortedArray() = this.toLowerCase().toCharArray().sorted()
 
     fun match(list: List<String>) = list
-            .filter { !it.equals(word, ignoreCase = true) }
-            .filter { it.toLowerCaseSortedArray() == word.toLowerCaseSortedArray() }
+            .filterNot { it.equals(word, ignoreCase = true) }
+            .filter { it.toLowerCaseSortedArray() == lowerCaseSortedWord }
             .toSet()
 }
