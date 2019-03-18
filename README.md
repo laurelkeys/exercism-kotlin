@@ -40,7 +40,7 @@ Exercism's coding challenges in [Kotlin](https://exercism.io/tracks/kotlin/exerc
 - [x] Grains
 - [x] Sieve
 - [x] Collatz Conjecture
-- [ ] Atbash Cipher
+- [x] Atbash Cipher
 - [ ] Nth Prime
 - [ ] Rail Fence Cipher
 - [ ] Phone Number
