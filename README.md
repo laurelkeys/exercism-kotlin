@@ -16,7 +16,7 @@ Exercism's coding challenges in [Kotlin](https://exercism.io/tracks/kotlin/exerc
 - [x] Robot Name
 - [x] Rotational Cipher
 - [x] Bank Account
-- [ ] Linked List
+- [x] Linked List
 - [ ] Binary Search
 
 ## Extra Exercises
