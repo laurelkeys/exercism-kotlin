@@ -17,7 +17,7 @@ Exercism's coding challenges in [Kotlin](https://exercism.io/tracks/kotlin/exerc
 - [x] Rotational Cipher
 - [x] Bank Account
 - [x] Linked List
-- [ ] Binary Search
+- [x] Binary Search
 
 ## Extra Exercises
 - [x] Reverse String
