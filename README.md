@@ -41,7 +41,7 @@ Exercism's coding challenges in [Kotlin](https://exercism.io/tracks/kotlin/exerc
 - [x] Sieve
 - [x] Collatz Conjecture
 - [x] Atbash Cipher
-- [ ] Nth Prime
+- [x] Nth Prime
 - [ ] Rail Fence Cipher
 - [ ] Phone Number
 - [ ] Nucleotide Count
