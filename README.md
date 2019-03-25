@@ -44,7 +44,7 @@ Exercism's coding challenges in [Kotlin](https://exercism.io/tracks/kotlin/exerc
 - [x] Nth Prime
 - [x] Rail Fence Cipher
 - [x] Phone Number
-- [ ] Nucleotide Count
+- [x] Nucleotide Count
 - [ ] Spiral Matrix
 - [ ] Prime Factors
 - [ ] Allergies
