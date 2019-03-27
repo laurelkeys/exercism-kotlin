@@ -46,7 +46,7 @@ Exercism's coding challenges in [Kotlin](https://exercism.io/tracks/kotlin/exerc
 - [x] Phone Number
 - [x] Nucleotide Count
 - [x] Spiral Matrix
-- [ ] Prime Factors
+- [x] Prime Factors
 - [ ] Allergies
 - [ ] Pascal's Triangle
 - [ ] Bracket Push

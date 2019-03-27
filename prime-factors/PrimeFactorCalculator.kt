@@ -1,34 +1,14 @@
-import kotlin.coroutines.experimental.buildSequence
-import kotlin.math.ceil
-import kotlin.math.sqrt
-
 object PrimeFactorCalculator {
 
-    private val primes = sequenceOf(2) +
-            generateSequence(3) { it + 2 }.filter { it.isPrime() }
+    fun primeFactors(number: Int) = primeFactors(number.toLong()).map { it.toInt() }
 
-    fun primeFactors(number: Int): List<Int> {
-        if (number <= 1) return emptyList()
-        return buildSequence {
-            primes
-                    .takeWhile { it <= number.squareRootCeil() }
-                    .filter { number.isMultipleOf(it) }
-                    .forEach {
-                        var remainder = number
-                        while (remainder.isMultipleOf(it)) {
-                            yield(it)
-                            remainder /= it
-                        }
-                    }
-        }.toList()
+    fun primeFactors(number: Long) = primeFactors(number, 2L, emptyList())
+
+    private tailrec fun primeFactors(number: Long, divisor: Long, acc: List<Long>): List<Long> = when {
+        number < divisor -> acc
+        number.isMultipleOf(divisor) -> primeFactors(number / divisor, divisor, acc + divisor)
+        else -> primeFactors(number, divisor + 1, acc)
     }
 
-    private fun Int.isPrime() = when {
-        this.isMultipleOf(2) -> this == 2 // the only prime even number is 2
-        else -> (3..this.squareRootCeil() step 2).none { this.isMultipleOf(it) }
-    }
-
-    private fun Int.isMultipleOf(number: Int) = this.rem(number) == 0
-
-    private fun Int.squareRootCeil() = ceil(sqrt(this.toDouble())).toInt()
+    private fun Long.isMultipleOf(number: Long) = this.rem(number) == 0L
 }

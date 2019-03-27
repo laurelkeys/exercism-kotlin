@@ -1,4 +1,3 @@
-import org.junit.Ignore
 import org.junit.Test
 import kotlin.test.assertEquals
 
@@ -34,10 +33,9 @@ class PrimeFactorCalculatorTest {
         assertEquals(listOf(5, 17, 23, 461), PrimeFactorCalculator.primeFactors(901255))
     }
 
-//    @Ignore
-//    @Test
-//    fun testThatAProductOfSmallAndLargePrimesIsFactoredProperly() {
-//        assertEquals(listOf<Long>(11, 9539, 894119), PrimeFactorCalculator.primeFactors(93819012551L))
-//    }
+    @Test
+    fun testThatAProductOfSmallAndLargePrimesIsFactoredProperly() {
+        assertEquals(listOf<Long>(11, 9539, 894119), PrimeFactorCalculator.primeFactors(93819012551L))
+    }
 
 }
