@@ -48,7 +48,7 @@ Exercism's coding challenges in [Kotlin](https://exercism.io/tracks/kotlin/exerc
 - [x] Spiral Matrix
 - [x] Prime Factors
 - [x] Allergies
-- [ ] Pascal's Triangle
+- [x] Pascal's Triangle
 - [ ] Bracket Push
 - [ ] Series
 - [ ] ISBN Verifier
