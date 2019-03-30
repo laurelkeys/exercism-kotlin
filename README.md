@@ -49,7 +49,7 @@ Exercism's coding challenges in [Kotlin](https://exercism.io/tracks/kotlin/exerc
 - [x] Prime Factors
 - [x] Allergies
 - [x] Pascal's Triangle
-- [ ] Bracket Push
+- [x] Bracket Push
 - [ ] Series
 - [ ] ISBN Verifier
 - [ ] Roman Numerals
