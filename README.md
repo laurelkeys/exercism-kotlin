@@ -50,7 +50,7 @@ Exercism's coding challenges in [Kotlin](https://exercism.io/tracks/kotlin/exerc
 - [x] Allergies
 - [x] Pascal's Triangle
 - [x] Bracket Push
-- [ ] Series
+- [x] Series
 - [ ] ISBN Verifier
 - [ ] Roman Numerals
 - [ ] ETL
