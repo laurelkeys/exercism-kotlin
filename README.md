@@ -51,7 +51,7 @@ Exercism's coding challenges in [Kotlin](https://exercism.io/tracks/kotlin/exerc
 - [x] Pascal's Triangle
 - [x] Bracket Push
 - [x] Series
-- [ ] ISBN Verifier
+- [x] ISBN Verifier
 - [ ] Roman Numerals
 - [ ] ETL
 - [ ] Grade School
