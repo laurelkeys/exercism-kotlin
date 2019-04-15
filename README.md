@@ -52,7 +52,7 @@ Exercism's coding challenges in [Kotlin](https://exercism.io/tracks/kotlin/exerc
 - [x] Bracket Push
 - [x] Series
 - [x] ISBN Verifier
-- [ ] Roman Numerals
+- [x] Roman Numerals
 - [ ] ETL
 - [ ] Grade School
 - [ ] Robot Simulator
