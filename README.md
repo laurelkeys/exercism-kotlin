@@ -53,7 +53,7 @@ Exercism's coding challenges in [Kotlin](https://exercism.io/tracks/kotlin/exerc
 - [x] Series
 - [x] ISBN Verifier
 - [x] Roman Numerals
-- [ ] ETL
+- [x] ETL
 - [ ] Grade School
 - [ ] Robot Simulator
 - [ ] Minesweeper
