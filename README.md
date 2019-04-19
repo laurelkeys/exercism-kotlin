@@ -55,7 +55,7 @@ Exercism's coding challenges in [Kotlin](https://exercism.io/tracks/kotlin/exerc
 - [x] Roman Numerals
 - [x] ETL
 - [x] Grade School
-- [ ] Robot Simulator
+- [x] Robot Simulator
 - [ ] Minesweeper
 - [ ] All Your Base
 - [ ] Say
