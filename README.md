@@ -56,7 +56,7 @@ Exercism's coding challenges in [Kotlin](https://exercism.io/tracks/kotlin/exerc
 - [x] ETL
 - [x] Grade School
 - [x] Robot Simulator
-- [ ] Minesweeper
+- [x] Minesweeper
 - [ ] All Your Base
 - [ ] Say
 - [ ] Sublist
