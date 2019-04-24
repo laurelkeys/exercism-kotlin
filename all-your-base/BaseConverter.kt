@@ -1,3 +1,6 @@
+import kotlin.math.floor
+import kotlin.math.log
+
 class BaseConverter(private val fromBase: Int, private val digits: IntArray) {
     private val value: Int
 
@@ -15,14 +18,23 @@ class BaseConverter(private val fromBase: Int, private val digits: IntArray) {
 
     fun convertToBase(toBase: Int): IntArray {
         require(toBase >= 2) { "Bases must be at least 2." }
-        return generateSequence({ value.rem(toBase) to value.div(toBase) }) { (_, quotient) ->
-           quotient.rem(toBase) to quotient.div(toBase)
-        }
-               .take(Math.floor(Math.log(value.toDouble()) / Math.log(toBase.toDouble())).toInt() + 1)
-               .map { it.first }
-               .toList()
-               .asReversed()
-               .toIntArray()
+        return if (value == 0) intArrayOf(0) else convertToBase(
+                toBase,
+                quotient = value,
+                index = 0,
+                acc = IntArray(floor(log(value.toDouble(), toBase.toDouble())).toInt() + 1)
+        )
     }
+
+    private tailrec fun convertToBase(toBase: Int, quotient: Int, index: Int, acc: IntArray): IntArray =
+            when (quotient) {
+                0 -> acc.reversedArray()
+                else -> convertToBase(
+                        toBase,
+                        quotient.div(toBase),
+                        index + 1,
+                        acc.apply { set(index, quotient.rem(toBase)) }
+                )
+            }
 
 }

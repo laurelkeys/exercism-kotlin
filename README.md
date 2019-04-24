@@ -57,7 +57,7 @@ Exercism's coding challenges in [Kotlin](https://exercism.io/tracks/kotlin/exerc
 - [x] Grade School
 - [x] Robot Simulator
 - [x] Minesweeper
-- [ ] All Your Base
+- [x] All Your Base
 - [ ] Say
 - [ ] Sublist
 - [ ] Meetup
