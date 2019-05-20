@@ -58,7 +58,7 @@ Exercism's coding challenges in [Kotlin](https://exercism.io/tracks/kotlin/exerc
 - [x] Robot Simulator
 - [x] Minesweeper
 - [x] All Your Base
-- [ ] Say
+- [x] Say
 - [ ] Sublist
 - [ ] Meetup
 - [ ] Clock
