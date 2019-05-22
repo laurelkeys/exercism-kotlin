@@ -59,7 +59,7 @@ Exercism's coding challenges in [Kotlin](https://exercism.io/tracks/kotlin/exerc
 - [x] Minesweeper
 - [x] All Your Base
 - [x] Say
-- [ ] Sublist
+- [x] Sublist
 - [ ] Meetup
 - [ ] Clock
 - [ ] List Ops
