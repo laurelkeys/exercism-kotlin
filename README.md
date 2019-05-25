@@ -62,7 +62,7 @@ Exercism's coding challenges in [Kotlin](https://exercism.io/tracks/kotlin/exerc
 - [x] Sublist
 - [ ] Meetup
 - [x] Clock
-- [ ] List Ops
+- [x] List Ops
 - [ ] Simple Cipher
 - [x] Complex Numbers
 - [ ] Change
