@@ -60,7 +60,7 @@ Exercism's coding challenges in [Kotlin](https://exercism.io/tracks/kotlin/exerc
 - [x] All Your Base
 - [x] Say
 - [x] Sublist
-- [ ] Meetup
+- [x] Meetup
 - [x] Clock
 - [x] List Ops
 - [ ] Simple Cipher
