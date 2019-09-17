@@ -65,6 +65,6 @@ Exercism's coding challenges in [Kotlin](https://exercism.io/tracks/kotlin/exerc
 - [x] List Ops
 - [x] Simple Cipher
 - [x] Complex Numbers
-- [ ] Change
+- [x] Change
 - [ ] Forth
 - [ ] React
